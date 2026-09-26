@@ -1,7 +1,7 @@
 # DeepGel-Profiler: High-Throughput Microstructure Analysis for Food Gels
 
 ## Overview
-This repository contains the Python implementation for the paper **"[Insert Your Paper Title Here]"**. 
+This repository contains the Python implementation for the paper "Mung bean protein fibrils reinforce whey protein gels at neutral pH: Effects of fibril maturity, concentration, and microstructure." 
 
 It utilizes Deep Transfer Learning (ResNet-34) to extract high-dimensional morphological features from Confocal Laser Scanning Microscopy (CLSM) images of WPI-MF composite gels. By projecting these features into a latent space using PCA, we quantitatively reveal the kinetic evolution and dosage effects of microfibrillated cellulose on protein networks.
 
@@ -20,4 +20,4 @@ It utilizes Deep Transfer Learning (ResNet-34) to extract high-dimensional morph
 3.  Run the analysis: `python src/microstructure_profiling.py`
 
 ## Citation
-If you use this code, please cite:
+If you use this code, please cite: Mung bean protein fibrils reinforce whey protein gels at neutral pH: Effects of fibril maturity, concentration, and microstructure
