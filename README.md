@@ -20,4 +20,4 @@ It utilizes Deep Transfer Learning (ResNet-34) to extract high-dimensional morph
 3.  Run the analysis: `python src/microstructure_profiling.py`
 
 ## Citation
-If you use this code, please cite:
+If you use this code, please cite: Hu, Y.,et al. (2027). Mung bean protein fibrils reinforce whey protein gels at neutral pH: Effects of fibril maturity, concentration, and microstructure. Food Hydrocolloids, 185, 113394. 
